@@ -1,4 +1,4 @@
-# Entangled Quantum-like Tokenomics for DeSci & Prediction Markets
+[# Entangled Quantum-like Tokenomics for DeSci & Prediction Markets
 
 Author: [sshmatrix](https://sshmatrix.ss.codes/) | [Antitoken](https://antitoken.pro) | quant/acc | q/acc
 
@@ -149,3 +149,4 @@ The use of `$BARYON` and `$PHOTON` tokens to encode trust and uncertainty, respe
 As this experimental tokenomics model matures, its potential applications could extend to other decentralised financial systems, governance frameworks, and resource-sharing networks, fostering innovation in markets that demand both stability and adaptability. While still in development, the system’s human interfaces and technical specifics promise to make this groundbreaking framework more accessible and applicable across a wide array of use cases.
 
 ![Figure 5: Science Resources Marketplace](https://antitoken.pro/assets/whitepaper/collective.png)
+](https://antitoken.pro)
