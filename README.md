@@ -1,6 +1,6 @@
-[# Entangled Quantum-like Tokenomics for DeSci & Prediction Markets
+# Entangled Quantum-like Tokenomics for DeSci & Prediction Markets
 
-Author: [sshmatrix](https://sshmatrix.ss.codes/) | [Antitoken](https://antitoken.pro) | quant/acc | q/acc
+Author: [sshmatrix](https://sshmatrix.ss.codes/) | [Antitoken](https://stage.antitoken.pro) | `quant/acc` | `q/acc`
 
 Ping: [dev@antitoken.pro](mailto:dev@antitoken.pro)
 
@@ -20,7 +20,7 @@ To expand the experiment, a custom AMM-like mechanism called the Collider contra
 
 While `$ANTI` and `$PRO` began as a memetokenomics experiment, their underlying mechanisms hint at significant potential applications, particularly in decentralised science (DeSci). In DeSci, systems frequently encode dualities, such as consistent and inconsistent components in a hypothesis. The Collider system could model these through Emission and Radiation tokens, enabling prediction markets for scientific validation or exploration. Beyond DeSci, the `$ANTI`-`$PRO` ecosystem has potential applications in decentralised organisations, prediction markets, and decentralised financial platforms where opposing yet interconnected forces — such as support vs. dissent or risk vs. reward — can be encoded directly into token mechanics. This whitepaper delves into these use cases and outlines a roadmap for exploring the broader implications of `$ANTI` and `$PRO` in decentralised systems.
 
-![Figure 1: Concept](https://antitoken.pro/assets/whitepaper/schema-minimal.png)
+![Figure 1: Concept](https://stage.antitoken.pro/assets/whitepaper/schema-minimal-white.png)
 
 ## Quantum Binding
 
@@ -46,11 +46,11 @@ This duality of forward and inverse operations forms the basis for the Collider'
 
 The interplay of these operations is best visualised through a Feynman diagram-like schema, as illustrated in Figure 1. In this representation, the Collider is depicted as an interaction vertex where incoming wave functions (tokens) are transformed into outgoing wave functions, encapsulating the quantum-inspired dynamics and control mechanisms governing the token ecosystem.
 
-![Figure 2: Forward and Inverse Operations](https://antitoken.pro/assets/whitepaper/forward-backward.png)
+![Figure 2: Forward and Inverse Operations](https://stage.antitoken.pro/assets/whitepaper/forward-backward-white.png)
 
 Forward and inverse operations (1) and (2) can be written in matrix form as follows:
 
-![Matrix Form](/assets/whitepaper/matrix-form.png)
+![Matrix Form](https://stage.antitoken.pro/assets/whitepaper/matrix-form-white.png)
 
 ## An Example
 
@@ -118,7 +118,7 @@ In the earlier example, the loss sustained by Bob due to his incorrect predictio
 
 Since the inner products are contiguous over their domain, the tokens in the Equaliser's pool can be redistributed among the participants through a straightforward mapping mechanism. This ensures that token redistribution is proportional to the accuracy of individual predictions while accounting for the collective contribution of all participants.
 
-![Figure 3: Prediction Markets](https://antitoken.pro/assets/whitepaper/prediction-markets.png)
+![Figure 3: Prediction Markets](https://stage.antitoken.pro/assets/whitepaper/prediction-markets-white.png)
 
 ### Decentralised Science
 
@@ -128,7 +128,7 @@ DeSci (Decentralised Science) is another domain where `$ANTI` and `$PRO` tokens 
 
 Consider a scenario where Alice is interested in funding a DeSci project that aims to determine the efficacy of a pharmaceutical product, "Drug X." Alice funds the research by depositing `$ANTI` and `$PRO` tokens in a proportion she deems appropriate, based on her assessment of the project's likelihood of success. In this case, the Equaliser contract is unnecessary since no outcome-based redistribution in intended; however, alternative methods must exist to ensure the emitted tokens are effectively utilised. The `$BARYON` tokens (representing Alice's trust in the outcome) are directly used to fund the project on which Alice has voted, while the `$PHOTON` tokens (representing her uncertainty about the outcome) are released into her personal wallet. Alice can then choose to expose the `$PHOTON` tokens to the market via selling, lending, staking etc or retain them. If the project succeeds, the market value of both `$BARYON` and `$PHOTON` tokens is likely to increase. Alice can then decide whether to sell her `$PHOTON` tokens for profit or acquire additional `$BARYON` tokens from the market to tunnel the dual pair back into `$ANTI` and `$PRO` tokens. Note that it is also possible for the token prices to decrease upon success due to external influences, such as the internal proceedings - including but not limited to the tokenomics - of the DeSci project in question. The market-making model in this case must be carefully designed to prevent any leakage of monetary value during token dispersion after emission, irrespective of the direction or magnitude of the price movement of the token pair.
 
-![Figure 4: Funding Decentralised Science](https://antitoken.pro/assets/whitepaper/desci-funding.png)
+![Figure 4: Funding Decentralised Science](https://stage.antitoken.pro/assets/whitepaper/desci-funding-white.png)
 
 #### Distributed Crowd-sourcing
 
@@ -138,7 +138,7 @@ The application of these tokens in distributed volunteer computing is both signi
 
 The applications of `$ANTI` and `$PRO` tokens in DeSci are vast, although their human interfaces are still under development to ensure completeness and usability. In both examples, it is worth noting that the local market for each use-case is determined by the emitted `$BARYON` and `$PHOTON` tokens, while the `$ANTI` and `$PRO` tokens remain within a global market independent of specific contexts or use-cases. Detailed technical specifications for the examples provided will be included in the forthcoming yellow paper.
 
-![Figure 5: Science Resources Marketplace](https://antitoken.pro/assets/whitepaper/desci-sourcing.png)
+![Figure 5: Science Resources Marketplace](https://stage.antitoken.pro/assets/whitepaper/desci-sourcing-white.png)
 
 ## Conclusion
 
@@ -148,5 +148,4 @@ The use of `$BARYON` and `$PHOTON` tokens to encode trust and uncertainty, respe
 
 As this experimental tokenomics model matures, its potential applications could extend to other decentralised financial systems, governance frameworks, and resource-sharing networks, fostering innovation in markets that demand both stability and adaptability. While still in development, the system’s human interfaces and technical specifics promise to make this groundbreaking framework more accessible and applicable across a wide array of use cases.
 
-![Figure 5: Science Resources Marketplace](https://antitoken.pro/assets/whitepaper/collective.png)
-](https://antitoken.pro)
+![Figure 5: Science Resources Marketplace](https://stage.antitoken.pro/assets/whitepaper/collective-white.png)
