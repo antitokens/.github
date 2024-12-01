@@ -20,7 +20,7 @@ To expand the experiment, a custom AMM-like mechanism called the Collider contra
 
 While `$ANTI` and `$PRO` began as a memetokenomics experiment, their underlying mechanisms hint at significant potential applications, particularly in decentralised science (DeSci). In DeSci, systems frequently encode dualities, such as consistent and inconsistent components in a hypothesis. The Collider system could model these through Emission and Radiation tokens, enabling prediction markets for scientific validation or exploration. Beyond DeSci, the `$ANTI`-`$PRO` ecosystem has potential applications in decentralised organisations, prediction markets, and decentralised financial platforms where opposing yet interconnected forces — such as support vs. dissent or risk vs. reward — can be encoded directly into token mechanics. This whitepaper delves into these use cases and outlines a roadmap for exploring the broader implications of `$ANTI` and `$PRO` in decentralised systems.
 
-![Figure 1: Concept](https://stage.antitoken.pro/assets/whitepaper/schema-minimal-white)
+![Figure 1: Concept](https://stage.antitoken.pro/assets/whitepaper/schema-minimal-white.png)
 Figure 1: Concept
 
 ## Quantum Binding
@@ -47,12 +47,12 @@ This duality of forward and inverse operations forms the basis for the Collider'
 
 The interplay of these operations is best visualised through a Feynman diagram-like schema, as illustrated in Figure 1. In this representation, the Collider is depicted as an interaction vertex where incoming wave functions (tokens) are transformed into outgoing wave functions, encapsulating the quantum-inspired dynamics and control mechanisms governing the token ecosystem.
 
-![Figure 2: Forward and Inverse Operations](https://stage.antitoken.pro/assets/whitepaper/forward-backward-white)
+![Figure 2: Forward and Inverse Operations](https://stage.antitoken.pro/assets/whitepaper/forward-backward-white.png)
 Figure 2: Forward and Inverse Operations
 
 Forward and inverse operations (1) and (2) can be written in matrix form as follows:
 
-![Matrix Form](https://stage.antitoken.pro/assets/whitepaper/matrix-form-white)
+![Matrix Form](https://stage.antitoken.pro/assets/whitepaper/matrix-form-white.png)
 
 ## An Example
 
@@ -120,7 +120,7 @@ In the earlier example, the loss sustained by Bob due to his incorrect predictio
 
 Since the inner products are contiguous over their domain, the tokens in the Equaliser's pool can be redistributed among the participants through a straightforward mapping mechanism. This ensures that token redistribution is proportional to the accuracy of individual predictions while accounting for the collective contribution of all participants.
 
-![Figure 3: Prediction Markets](https://stage.antitoken.pro/assets/whitepaper/prediction-markets-white)
+![Figure 3: Prediction Markets](https://stage.antitoken.pro/assets/whitepaper/prediction-markets-white.png)
 Figure 3: Prediction Markets
 
 ### Decentralised Science
@@ -142,7 +142,7 @@ The application of these tokens in distributed volunteer computing is both signi
 
 The applications of `$ANTI` and `$PRO` tokens in DeSci are vast, although their human interfaces are still under development to ensure completeness and usability. In both examples, it is worth noting that the local market for each use-case is determined by the emitted `$BARYON` and `$PHOTON` tokens, while the `$ANTI` and `$PRO` tokens remain within a global market independent of specific contexts or use-cases. Detailed technical specifications for the examples provided will be included in the forthcoming yellow paper.
 
-![Figure 5: Science Resources Marketplace](https://stage.antitoken.pro/assets/whitepaper/desci-sourcing-white)
+![Figure 5: Science Resources Marketplace](https://stage.antitoken.pro/assets/whitepaper/desci-sourcing-white.png)
 Figure 5: Science Resources Marketplace
 
 ## Conclusion
@@ -153,5 +153,5 @@ The use of `$BARYON` and `$PHOTON` tokens to encode trust and uncertainty, respe
 
 As this experimental tokenomics model matures, its potential applications could extend to other decentralised financial systems, governance frameworks, and resource-sharing networks, fostering innovation in markets that demand both stability and adaptability. While still in development, the system’s human interfaces and technical specifics promise to make this groundbreaking framework more accessible and applicable across a wide array of use cases.
 
-![Figure 6: The Antitoken Collective](https://stage.antitoken.pro/assets/whitepaper/collective-white)
+![Figure 6: The Antitoken Collective](https://stage.antitoken.pro/assets/whitepaper/collective-white.png)
 Figure 6: The Antitoken Collective
